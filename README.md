@@ -1,4 +1,4 @@
-# slima-ai
+# Slima
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-slima-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://slima.ai/
+Slima provides an AI‑powered novel writing platform that helps authors organize, draft, and refine their manuscripts. The service offers tools such as a writing studio, AI beta‑reader, script studio, and collaborative teams, all designed to keep the entire story in one place. Slima emphasizes data privacy, promising that user content is never used to train models and remains under the author’s control.
+
+**Areas:** AI · Writing · SaaS · Collaboration · Privacy · Company
+
+## Slima on APIs.io
+
+Everything profiled for Slima is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/slima-ai/](https://apis.io/providers/slima-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Slima API](https://apis.io/apis/slima-ai/slima-api/) — API for Slima AI platform, documented at the developer docs. No public machine‑readable contract was found.
+- [Slima API](https://apis.io/apis/slima-ai/slima-ai-api/) — Slima API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-11-25); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostV2TokensRequest](https://apis.io/schemas/slima-ai/slima-ai-post-v2-tokens-request/)
+- [PostV2TokensResponse](https://apis.io/schemas/slima-ai/slima-ai-post-v2-tokens-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Slima Ai Context](https://apis.io/jsonld/slima-ai/slima-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Slima API Rules](https://apis.io/rules/slima-ai/slima-ai-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Slima Domain Security](https://apis.io/security/slima-ai/slima-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Slima Plans Pricing](https://apis.io/plans/slima-ai/slima-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://slima.ai/)
+- [Documentation](https://slima.ai/en/docs)
+- [Getting started](https://slima.ai/en/docs/getting-started)
+- [Pricing](https://slima.ai/en/plans)
+- [Support](https://slima.ai/en/support)
+- [Changelog](https://slima.ai/en/resources/changelog)
+- [Terms of service](https://slima.ai/en/terms)
+- [Privacy policy](https://slima.ai/en/privacy)
+
+## API Evangelist rating
+
+**Kin Score 47.7** — developing · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 43.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 32.6 |
+| Access clarity | 60.0 |
+
+**Agent readiness 38.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/slima-ai/](https://apis.io/providers/slima-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Slima: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/slima-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
